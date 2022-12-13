@@ -1,4 +1,4 @@
-# <img src=https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/regular/folder-closed.svg height="50" width="50"> Linux
+# <img src=https://github.com/FortAwesome/Font-Awesome/raw/6.x/svgs/regular/folder-closed.svg height="25" width="25"> Linux
 Helpful Linux command and what they do
 
 
