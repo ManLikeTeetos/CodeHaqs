@@ -28,4 +28,4 @@ Random User Generator (https://randomuser.me/) : This site generates random user
 
 [DummyImage.com](https://dummyimage.com/) : DummyImage generates dummy images for any size or resolution. You can specify width, height, text, and background color of the generated images.
 
-## Note that most of this services have limitations, some of them are limited in number of calls, others limit the amount of data, or the type of data, you may want to check their documentation and pricing before use it. <br/>
+### Note that most of this services have limitations, some of them are limited in number of calls, others limit the amount of data, or the type of data, you may want to check their documentation and pricing before use it. <br/>
