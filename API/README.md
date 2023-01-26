@@ -12,3 +12,5 @@ There are several websites that provide dummy data that you can use for testing 
 [MOCKAPI](https://mockapi.io/): This is a simple, flexible and powerful tool for mocking RESTful APIs. It allows you to create, read, update, and delete resources in a simple, consistent way.<br/>
 
 [OpenAPI](https://openapi.com/): This is an open-source mock RESTful API service that allows you to generate a wide range of dummy data for your projects.<br/>
+
+* Note that most of this services have limitations, some of them are limited in number of calls, others limit the amount of data, or the type of data, you may want to check their documentation and pricing before use it.
